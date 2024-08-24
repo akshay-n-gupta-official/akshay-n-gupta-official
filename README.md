@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Gupta from Ahmedabad,Gujarat. Graduated as a Computer Engineer in 2016.
-- 👀 I’m interested in Tech - AI/ML ,Entrepreneurship, spirituality, Dharma Ideology, Philosophy, Psychology, Fitness, Finance, Growth, Travelling-Nature Lover.
+- 👀 I’m interested in Tech - AI/ML ,Entrepreneurship, Spirituality, Dharma Ideology, Philosophy, Psychology, Fitness, Finance, Growth, Travelling-Nature Lover.
 - 🌱 I’m currently learning Data Science and Machine Learning and for more details about my professional journey of last 7 years, you can visit my Linkedin Profile.
 - 💞️ I’m looking to collaborate on any opportunity in DSML domain.
 - 📫 You can reach out to me over email and linkedin.
